@@ -1,8 +1,8 @@
-Koch Snowflake
+# Koch Snowflake
 
 This is just a Rust exercise.
 
-## Running:
+## Running from source code:
 
 ```
 cargo build
